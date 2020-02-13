@@ -1,3 +1,3 @@
-# GitOps Demo
-![GitOps Demo](./docs/GitOps1.png)
+# Integrating Flux and Git
+![GitOps Demo](./docs/GitOpsDiagram.png)
 
