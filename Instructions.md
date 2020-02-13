@@ -1,7 +1,7 @@
 # Flux Installation and Implementation
 
 #### Pre-Requisites:
-Fork or make a copy of the Demonstration Repository : `kellygriffin/gitops-demo`
+Fork or make a copy of the Demonstration Repository : `kellygriffin/flux-demo`
 
 Steps required:
 
