@@ -1,7 +1,7 @@
 # Flux Installation and Implementation
 
 #### Pre-Requisites:
-Fork or make a copy of the Demonstration Repository : `kellygriffin/flux-demo`
+Fork or make a copy of the Demonstration Repository : `.../flux-demo`
 
 Steps required:
 
@@ -29,7 +29,7 @@ fluxctl list-workloads
 
 * Install Fluxcd to create connection to your Git Repo
 ```
-export GHUSER="kellygriffin"
+export GHUSER="<username>"
 export REPO="gitops-demo"
 export NS="flux"
 fluxctl install \
